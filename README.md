@@ -5,7 +5,7 @@ Grob-Planung
  .20.10.2023 - .02.2024
 
 Leit-Satz:
-Ich werde in den ersten 2 Wochen am Modul 319 arbeiten und nachher ein grosses Programmier Projet bearbeiten. Das Projekt wird irgendeine Art von Spiel sein. 
+Ich werde in den ersten 2 Wochen am Modul 319 arbeiten und nachher ein grosses Programmier Projet bearbeiten. Das Projekt wird irgendeine Art von Spiel oder ein komplexes Programm sein. 
 
 
 Arbeitspakete: 20.10.23
