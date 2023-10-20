@@ -11,8 +11,7 @@ Leit-Satz:
 Arbeitspakete: 20.10.23
 
 
-
-[x]
+- [x]
 
 
 
