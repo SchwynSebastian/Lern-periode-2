@@ -10,8 +10,9 @@ Leit-Satz:
 
 Arbeitspakete: 20.10.23
 
-- [x] e-portfolio
-- [x] e-portfolio
+- [ ] M319 Handlungsziel 1 fertig machen
+- [ ] M319 Handlungsziel 2 und 3 fertig machen
+
  
 
 
