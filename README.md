@@ -10,8 +10,10 @@ Leit-Satz:
 
 Arbeitspakete: 20.10.23
 
-
-- [x]
+- [x] Stopuhr spiel basis coden
+- [ ] Hz2 fertig machen
+- [ ]  - [x] Hz3 erarbeiten und 2 portfolios erstellen
+- [ ]
 
 
 
