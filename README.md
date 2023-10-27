@@ -24,3 +24,11 @@ Arbeitspakete: 27.10.23
 - [x] Ich möchte mein Programmierprojekt beginnen und dafür anfangen zu planen infos zu hollen(ein Projektüber ein Programm oder ein Spiel und villeicht in einer Gruppe).
 - [ ] Ich werde mir einen Plan fürs Projekt machen und falls ich noch mehr Zeit habe, am Programmieren starten
 
+Ich habe Hz6 in einer ziemlich kurzen Zeit fertig gelöst. Ich habe auch angefangen zu plannen, was für ein Projekt, unsere Vorgehungsweise und das Thema ist. Leider hat das mehr Zeit gebraucht als gedacht und wir haben den Plan ncht fertig stellen können.
+
+Arbeitspakete: 3.11.23
+
+- [ ] Ich werde für bevorstehende Prüfungen lernen
+- [ ] Ich werde am Programmierprojekt bei Herrn Fähndrich weiter arbeiten
+- [ ] Ich werde am ausgewählten Projekt (von Lernatelier) anfangen
+
