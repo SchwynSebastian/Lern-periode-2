@@ -20,7 +20,7 @@ In der zweiten Arbeit session habe ich den Fortgeschritten Ziel (5 verschiedene 
 
 Arbeitspakete: 27.10.23
 
-- [ ] M319: Ich möchte 2 Arbeitspakete zusammenfügen und zu dieser Zeit so viel wie möglich vom Hz6 bearbeiten.
-- [ ] Ich möchte mein Programmierprojekt beginnen und dafür anfangen zu planen infos zu hollen(ein Projektüber ein Programm oder ein Spiel und villeicht in einer Gruppe).
-- [ ] Ich werde mir einen Plan fürs Projekt machen und falls ichnoch mehr Zeit habe, am Programmieren starten
+- [x] M319: Ich möchte 2 Arbeitspakete zusammenfügen und zu dieser Zeit so viel wie möglich vom Hz6 bearbeiten.
+- [x] Ich möchte mein Programmierprojekt beginnen und dafür anfangen zu planen infos zu hollen(ein Projektüber ein Programm oder ein Spiel und villeicht in einer Gruppe).
+- [ ] Ich werde mir einen Plan fürs Projekt machen und falls ich noch mehr Zeit habe, am Programmieren starten
 
