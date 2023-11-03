@@ -28,7 +28,8 @@ Ich habe Hz6 in einer ziemlich kurzen Zeit fertig gelöst. Ich habe auch angefan
 
 Arbeitspakete: 3.11.23
 
-- [ ] Ich werde für bevorstehende Prüfungen lernen
-- [ ] Ich werde am Programmierprojekt bei Herrn Fähndrich weiter arbeiten
+- [x] Ich werde für bevorstehende Prüfungen lernen
+- [x] Ich werde am Programmierprojekt bei Herrn Fähndrich weiter arbeiten
 - [ ] Ich werde am ausgewählten Projekt (von Lernatelier) anfangen
 
+Ich habe in der ersten Stunde für die bevorstehenden Prüfungen , nächste Woche, gelernt (ETEU). Ich habe nachher am Programmierprojek (Wortschatz-Qui) weitergearbeitet. Ich habe zuerst Videos und chatGPT benutzt um den Aufbau und Verwendung von einem WIndows forms application besser zu verstehen. Ich habe mir nachher die Ideen, die wir mit Herr Frey (Kunde) besprochen haben, im Kopf formuliert und mir vorgenmommen Ein Zeitlimit für den Quiz zu erstellen. Ich habe dann während dem Programmieren bemerkt, dass ich anstatt Windows forms, Windows console am benutzen war. Ich habe den Code trotzdem fertig geschrieben und have Wege gesucht, es in Windows Forms zu verschieben. Der Code wurde erfolgreich programmiert aber noch nicht komplett auf Windows Forms transferiert.
