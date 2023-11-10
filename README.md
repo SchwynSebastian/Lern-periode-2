@@ -36,6 +36,12 @@ Ich habe in der ersten Stunde für die bevorstehenden Prüfungen , nächste Woch
 
 Arbeitspakete: 10.11.23
 
-- [ ] Ich werde das GUI für den Wortschatzquiz erarbeiten
-- [ ] Ich werde mit meine Gruppenmitgliedern die Planung besprechen und evt. verbessern
-- [ ] Ich werde im Code das Programm, also die Funktionen erarbeiten
+- [x] Ich werde das GUI für den Wortschatzquiz erarbeiten
+- [x] Ich werde mit meine Gruppenmitgliedern die Planung besprechen und evt. verbessern
+- [x] Ich werde im Code das Programm, also die Funktionen erarbeiten
+
+Ich habe am Anfang der Stunde, also im ersten Arbeitspaket mich über das GUI von Windows Forms erkundigt und ein par Funktionen/Elemente hinzugefügt. Im zweiten Arbeitspaket habe ich mit Antoni, den Aufbau unseres Programms besprochen und Pannen beseitigt. In der letzten Arbeitspaket haben wir angefangen zu programmieren und die Funktionen von Windows Forms zu entecken. Wir haben heute viele neue Funktionen herausgefunden und gelernt, wie man sich in Windows Form navigiert.
+
+- [ ] Ich werde forms 1 Gestaltung und GUI fertig oder fast fertig gestalten/funktionen hereinfügen.
+- [ ] Ich werde mich der Planung Wendigen, es analysieren und falls nötig Handlung zum Programm vornehmen.
+- [ ] Ich werde mehr für das Projekt programmieren.
