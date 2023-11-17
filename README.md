@@ -42,6 +42,8 @@ Arbeitspakete: 10.11.23
 
 Ich habe am Anfang der Stunde, also im ersten Arbeitspaket mich über das GUI von Windows Forms erkundigt und ein par Funktionen/Elemente hinzugefügt. Im zweiten Arbeitspaket habe ich mit Antoni, den Aufbau unseres Programms besprochen und Pannen beseitigt. In der letzten Arbeitspaket haben wir angefangen zu programmieren und die Funktionen von Windows Forms zu entecken. Wir haben heute viele neue Funktionen herausgefunden und gelernt, wie man sich in Windows Form navigiert.
 
-- [ ] Ich werde forms 1 Gestaltung und GUI fertig oder fast fertig gestalten/funktionen hereinfügen.
-- [ ] Ich werde mich der Planung Wendigen, es analysieren und falls nötig Handlung zum Programm vornehmen.
-- [ ] Ich werde mehr für das Projekt programmieren.
+- [x] Ich werde forms 1 Gestaltung und GUI fertig oder fast fertig gestalten/funktionen hereinfügen.
+- [x] Ich werde mich der Planung Wendigen, es analysieren und falls nötig Handlung zum Programm vornehmen.
+- [x] Ich werde mehr für das Projekt programmieren.
+
+Ich habe heute in der ersten Stunde mit meinen Teampartnern drüber nachgedacht, wie wir jetzt unser Code und Ideen umsetzen wollen. Wir haben gute 20 Minuten nachgedacht und fingen an bei Forms2.cs (es hat 4 Forms insgesamt) den Code zu schreiben. Wir haben es geschafft dass bei unseren Quiz zufällige Wörter auftauchen. Jetzt müssen wir es so Einstellen, dass die Antworten (Synonyme) von Wörter aus den Internet korrigiert werden. Wir haben auch Checkboxen (4 Auswahl) hinzugefügt um davon auszuwählen, welches Synonym richtig ist.
