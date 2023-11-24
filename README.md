@@ -60,7 +60,7 @@ Ich habe am Anfang der Stunde also beim ersten Arbeitspaket, Die Gestaltung also
 
 Arbeitspakete: 1.12.23
 
-- [ ] 
-- [ ]
-- [ ]
+- [ ] Mittlere Schwierigkeitsstufe abschlissen und bei der schweren Schwierigkeitsstufe so weit wie möglich kommen.
+- [ ] Das GUI mit Hintergrundbild Gestaltung und Text bei allen Forms "KOMPLETT" fertig machen
+- [ ] Programm nach Buggs untersuchen und mehrmals Testen
   
