@@ -53,5 +53,14 @@ Ich habe heute in der ersten Stunde mit meinen Teampartnern drüber nachgedacht,
 Arbeitspakete: 24.11.23
 
 - [ ] Am Programmierprojekt Forms1 Gestaltung fertig designen
+- [x] bei der Schwierigkeitsstufe "einfach" es so einstellen, dass ein Random Wort auftaucht und dass man eine Auswahl von 4 Synonymen hat.
+- [x] Ideen für die Schwierigkeitsstufe "mittel" hollen und den Code bei Forms2.cs verbessern (Warnungen beheben)
+
+Ich habe am Anfang der Stunde also beim ersten Arbeitspaket, Die Gestaltung also das GUI, z.b. beschriften was in der einfachen Schwierigkeitsstufe vorkommt, bearbeitet. Ich wurde aber nicht ganz fertig mit der Beschriftung von der schweren Schwierigkeitsstufe. Vor der Pause haben wir noch Programmiert, dass es ein Zufälliges Wort wiedergibt und dann 4 Antworten (Synonyme) in den Checkboxen wiedergibt. Wir haben dann nach der Pause Redundanzen und Warnungen im Code entfernt/repariert. In der letzten halbe Stunde habe ich dann Ideen für die mittlere Schwierigkeitsstufe zusammengestellt und meinen Partnern noch beim Code schreiben geholfen.
+
+Arbeitspakete: 1.12.23
+
+- [ ] 
 - [ ]
 - [ ]
+  
