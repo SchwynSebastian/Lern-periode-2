@@ -60,7 +60,16 @@ Ich habe am Anfang der Stunde also beim ersten Arbeitspaket, Die Gestaltung also
 
 Arbeitspakete: 1.12.23
 
-- [ ] Mittlere Schwierigkeitsstufe abschlissen und bei der schweren Schwierigkeitsstufe so weit wie möglich kommen.
-- [ ] Das GUI mit Hintergrundbild Gestaltung und Text bei allen Forms "KOMPLETT" fertig machen
-- [ ] Programm nach Buggs untersuchen und mehrmals Testen
+- [x] Schwere Schwierigkeitsstufe abschlissen und bei der schweren Schwierigkeitsstufe so weit wie möglich kommen.
+- [x] Das GUI mit Hintergrundbild Gestaltung und Text bei allen Forms "KOMPLETT" fertig machen
+- [x] Programm nach Buggs untersuchen und mehrmals Testen
   
+Die schwierige Stufe im Spiel wurde geschafft, und wir haben unser Ziel erreicht, so weit wie möglich voranzukommen. Das Aussehen der Bildschirme, die wir sehen, wurde komplett gemacht. Das sind die Teile des Spiels, die wir benutzen. Wir haben sicherzustellen versucht, dass alles gut aussieht. Wir haben das Programm überprüft und Fehler gefunden, die wir dann behoben haben. Nachdem wir das gemacht haben, haben wir das Programm mehrmals getestet, um sicherzugehen, dass es gut funktioniert. Jetzt ist das Programm bereit für den Einsatz, und wir können es verwenden, ohne uns um Probleme kümmern zu müssen.
+
+- [ ] ein neues Projekt starten
+- [ ] Französisch lernen
+- [ ] andere Programmierpsrachen erkundigen und sich mit Unreal engine bekannt machen
+
+
+
+
