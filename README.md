@@ -66,10 +66,16 @@ Arbeitspakete: 1.12.23
   
 Die schwierige Stufe im Spiel wurde geschafft, und wir haben unser Ziel erreicht, so weit wie möglich voranzukommen. Das Aussehen der Bildschirme, die wir sehen, wurde komplett gemacht. Das sind die Teile des Spiels, die wir benutzen. Wir haben sicherzustellen versucht, dass alles gut aussieht. Wir haben das Programm überprüft und Fehler gefunden, die wir dann behoben haben. Nachdem wir das gemacht haben, haben wir das Programm mehrmals getestet, um sicherzugehen, dass es gut funktioniert. Jetzt ist das Programm bereit für den Einsatz, und wir können es verwenden, ohne uns um Probleme kümmern zu müssen.
 
+Arbeitspakete 8.12.23
+
 - [ ] ein neues Projekt starten
 - [x] Wirtschaft Aufgaben lösen
 - [x] andere Programmierpsrachen erkundigen und mich mit Unreal engine bekannt machen
 
 Ich habe am Anfang ein par Wirtschaft Aufgaben über die Ansoff-Matrix und Markt- und Produktziele gelöst. Ich habe mir nachher gedanken gemacht, was ich für ein Projekt starten will. Nach langem Nachdenken bin ich nicht auf eine Idee gekommen und fing an andere Programmiersprachen zu erkundigen (z.b. python, java, javascript). Ich mich dann zu Unreal Engine gewidmet und schaute tutorials über wie man Unreal Engine benutzt/welche Funktionen es hat.
 
+Arbeitspakete 15.12.23
 
+- [ ]
+- [ ]
+- [ ]
