@@ -67,8 +67,8 @@ Arbeitspakete: 1.12.23
 Die schwierige Stufe im Spiel wurde geschafft, und wir haben unser Ziel erreicht, so weit wie möglich voranzukommen. Das Aussehen der Bildschirme, die wir sehen, wurde komplett gemacht. Das sind die Teile des Spiels, die wir benutzen. Wir haben sicherzustellen versucht, dass alles gut aussieht. Wir haben das Programm überprüft und Fehler gefunden, die wir dann behoben haben. Nachdem wir das gemacht haben, haben wir das Programm mehrmals getestet, um sicherzugehen, dass es gut funktioniert. Jetzt ist das Programm bereit für den Einsatz, und wir können es verwenden, ohne uns um Probleme kümmern zu müssen.
 
 - [ ] ein neues Projekt starten
-- [ ] Französisch lernen
-- [ ] andere Programmierpsrachen erkundigen und sich mit Unreal engine bekannt machen
+- [ ] Wirtschaft Aufgaben lösen
+- [ ] andere Programmierpsrachen erkundigen und mich mit Unreal engine bekannt machen
 
 
 
