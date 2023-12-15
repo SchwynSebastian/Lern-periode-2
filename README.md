@@ -76,10 +76,13 @@ Ich habe am Anfang ein par Wirtschaft Aufgaben über die Ansoff-Matrix und Markt
 
 Arbeitspakete 15.12.23
 
-- [ ] Motivationsschreiben erstellen, Lebenslauf aktualisieren
-- [ ] Mathe lernen
-- [ ] An einem Projetk dran arbeiten/Projekt starten
+- [x] Motivationsschreiben erstellen, Lebenslauf aktualisieren
+- [x] Mathe lernen
+- [x] An einem Projetk dran arbeiten/Projekt starten
 
-
+Ich habe als erstes an Advent of code gearbeitet und habe dort Tag 1 fertig gemacht und  habe bereits bei Tag 2 angefangen. Später habe ich mit meinen Kollegen Mathematik im Bereich Eindeutige Funktionen und Funktionsgleichungen besprochen. Am Ende dieses Treffens habe ich meinen Lebenslauf überarbeitet, da er bereits seit 3 Jahren veraltet war. Nachdem ich ihn aktualisiert hatte, begann ich, mich meinem Motivationsschreiben bzw. Bewerbungsschreiben zu widmen, da ich mich am Samstag bewerben werde.
 
 Arbeitspakete 22.12.23
+
+- [ ] Bei Advent of Code einen Tag gut abschliessen
+- [ ] Bei meinem fehlgeschlagenen Projekt die Fehler beheben, sodass das Programm richtig ausgeführt werden kann
