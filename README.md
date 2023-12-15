@@ -76,6 +76,10 @@ Ich habe am Anfang ein par Wirtschaft Aufgaben über die Ansoff-Matrix und Markt
 
 Arbeitspakete 15.12.23
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] Motivationsschreiben erstellen, Lebenslauf aktualisieren
+- [ ] Mathe lernen
+- [ ] An einem Projetk dran arbeiten/Projekt starten
+
+
+
+Arbeitspakete 22.12.23
