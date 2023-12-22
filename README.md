@@ -84,5 +84,9 @@ Ich habe als erstes an Advent of code gearbeitet und habe dort Tag 1 fertig gema
 
 Arbeitspakete 22.12.23
 
-- [ ] Bei Advent of Code einen Tag gut abschliessen
-- [ ] Bei meinem fehlgeschlagenen Projekt die Fehler beheben, sodass das Programm richtig ausgeführt werden kann
+- [x] Bei Advent of Code einen Tag gut abschliessen
+- [] Bei meinem fehlgeschlagenen Projekt die Fehler beheben, sodass das Programm richtig ausgeführt werden kann
+
+Reflexion Ende Lernperiode 2:
+
+
