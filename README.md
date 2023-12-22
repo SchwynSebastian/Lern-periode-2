@@ -90,3 +90,6 @@ Arbeitspakete 22.12.23
 Reflexion Ende Lernperiode 2:
 
 
+Das Programmieren in C# für ein grosses Projekt hat mir viel beigebracht. Ich habe auch andere Programmiersprachen erkundet. Das hat mir gezeigt, wie vielfältig das Programmieren sein kann.
+Während des Projekts habe ich gemerkt, dass nicht nur die technischen Dinge wichtig sind. Auch die Zusammenarbeit im Team und die Organisation des Projekts spielen eine grosse Rolle. Um das zu verbessern, denke ich, dass wir besser miteinander reden sollten. Regelmässige Treffen könnten helfen, Probleme zu besprechen und Fortschritte zu teilen.
+Ausserdem könnten klare Regeln für die Projektführung helfen. Das würde helfen, Missverständnisse zu vermeiden und die Arbeit effizienter zu machen. Vielleicht könnten wir auch agile Methoden ausprobieren, um flexibler zu sein und den Entwicklungsprozess zu verbessern. Zusammengefasst war die Erfahrung lehrreich. Aber für eine bessere Verbesserung sollten wir nicht nur auf die Technik, sondern auch auf die Zusammenarbeit im Team achten.
